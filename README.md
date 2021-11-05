@@ -1,7 +1,7 @@
 ### Victor Felipe
 
 <div>
-  <a href="https://gitconnected.com/victor-felipe-code/resume" alt="Victor-Curriculum Vitae">
+  <a href="https://gitconnected.com/victor-felipe-code/resume" target="_blank" alt="Victor-Curriculum Vitae">
     Curriculum Vitae
   </a>
 </div>
